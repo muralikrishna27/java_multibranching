@@ -1,3 +1,4 @@
+@Library('gitlibrary')_
 pipeline
 {
     agent any
